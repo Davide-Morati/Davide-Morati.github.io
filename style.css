@@ -53,12 +53,12 @@ footer {
 }
 
 .image-box {
-  max-width: 600px;
+  max-width: 1000px;
   text-align: center;
 }
 
 .image-box img {
-  width: 120%;
+  width: 100%;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
