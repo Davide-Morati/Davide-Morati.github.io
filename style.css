@@ -47,13 +47,25 @@ footer {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 1em;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
 }
 
-.gallery img {
+.image-box {
+  max-width: 400px;
+  text-align: center;
+}
+
+.image-box img {
   width: 100%;
-  max-width: 300px;
   height: auto;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.image-box p {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #444;
 }
