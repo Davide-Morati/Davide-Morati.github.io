@@ -15,4 +15,4 @@ Il sito è composto da 4 pagine principali:
 
 ---
 
-© 2025 – Progetto scolastico
+© 2025 - Tempesta Vaia
