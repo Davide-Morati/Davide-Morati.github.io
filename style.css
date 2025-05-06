@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #205072;
+  background-color: #2d4d0f;
   color: white;
   padding: 1em;
   text-align: center;
@@ -36,7 +36,7 @@ main {
 }
 
 footer {
-  background-color: #205072;
+  background-color: #486131;
   color: white;
   text-align: center;
   padding: 1em;
@@ -53,7 +53,7 @@ footer {
 }
 
 .image-box {
-  max-width: 1000px;
+  max-width: 1800px;
   text-align: center;
 }
 
